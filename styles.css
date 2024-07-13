@@ -1,0 +1,29 @@
+body{background-image: url(https://media1.tenor.com/m/5zFl9vFfwzEAAAAd/meme-rei-ayanami.gif);
+    /*-webkit-background-size: cover;
+    background-size: cover;*/
+    display: flex;
+    flex-direction: column;
+    color: rgb(0, 0, 0);
+}
+h1{
+    background-color: rgb(255, 0, 234);
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color: rgb(255, 255, 255);
+    padding-block: 15px;
+}
+img{
+    margin-inline: auto;
+    width: 200px;
+    height: 200px; 
+    border-radius: 50%; 
+}
+/*span{
+    display: flex;
+    justify-content: center;
+}
+*/
